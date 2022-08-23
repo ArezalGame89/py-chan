@@ -1,0 +1,5 @@
+Requirement already satisfied: requests in c:\users\arad\appdata\local\programs\python\python310\lib\site-packages (2.27.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\arad\appdata\local\programs\python\python310\lib\site-packages (from requests) (3.3)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\users\arad\appdata\local\programs\python\python310\lib\site-packages (from requests) (1.26.8)
+Requirement already satisfied: charset-normalizer~=2.0.0 in c:\users\arad\appdata\local\programs\python\python310\lib\site-packages (from requests) (2.0.12)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\arad\appdata\roaming\python\python310\site-packages (from requests) (2021.10.8)
